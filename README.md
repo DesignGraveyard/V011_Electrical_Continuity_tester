@@ -8,6 +8,9 @@ The video below shows the tester in action, how to build it in 15 minutes and an
 
 [![Watch the video](https://img.youtube.com/vi/XR9e3-A5Q-0/0.jpg)](https://youtu.be/XR9e3-A5Q-0)
 
+# "Schematic" of the continuity tester:  
+
+<img src="schematic_contact_tester.jpg" alt="Schematic Contact Tester" width="600">
 
 # Files:  
   

@@ -6,7 +6,7 @@ The video below shows the tester in action, how to build it in 15 minutes and an
 
 # Check out the video:
 
-[![Watch the video](https://img.youtube.com/ZH6WlxgRGxY/0.jpg)](https://youtu.be/ZH6WlxgRGxY)
+[![Watch the video](https://img.youtube.com/vi/ZH6WlxgRGxY/0.jpg)](https://youtu.be/ZH6WlxgRGxY)
 
 # "Schematic" of the continuity tester:  
 
